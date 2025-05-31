@@ -1,0 +1,66 @@
+📌 What is Software Engineering?
+Technical explanation:
+Software engineering is the process of designing, developing, testing, and maintaining software systems by applying engineering principles. It’s about building software in a structured, organized, and efficient way so that it’s reliable and works as expected.
+
+In layman’s words:
+It’s like building a house — you don’t just start throwing bricks randomly. You plan it, design it properly, build it step by step, check if it’s safe, and then maintain it regularly. Same with software — you plan, build, test, and keep it updated.
+
+📌 What Does a Software Engineer Do?
+Technical:
+
+Gather user requirements
+
+Design system architecture
+
+Write clean, efficient code
+
+Test software for bugs
+
+Maintain and update software systems
+
+Layman’s way:
+A software engineer is like a builder of digital tools and apps. They listen to what people need, plan how to make it, build it properly, check for problems, and fix or upgrade it over time.
+
+📌 What is Problem Solving in Software Engineering?
+Technical:
+Problem solving is the process of identifying issues in software development and finding the most effective way to fix them. It involves breaking down a complex issue into smaller parts, analyzing them, and creating efficient solutions through algorithms and coding.
+
+In layman’s terms:
+It’s like fixing a broken bike. First, you check what’s wrong — is it the tire, chain, or brake? Then you find the best way to fix it. In software, problems are bugs or errors, and problem solving means finding out what’s wrong and fixing it the smart way.
+
+📌 How Do Software Engineers Solve Problems?
+Layman’s steps:
+
+Understand the problem → Know what’s wrong
+
+Break it down → Divide it into small, easy-to-handle parts
+
+Think of possible solutions → Like choosing between patching a tire or buying a new one
+
+Pick the best one → The quickest, cheapest, and most reliable
+
+Fix it → Write the code
+
+Test it → Check if the problem is solved and everything still works
+
+Learn from it → So you can fix it even faster next time
+
+Technical version:
+Same as above but adding:
+
+Writing algorithms
+
+Using debugging tools
+
+Optimizing code performance
+
+Following clean code principles
+
+Documenting the solution
+
+📌 Why Are Both Important Together?
+Layman:
+You can’t build a house without knowing how to fix problems like a leaking pipe or a cracked wall. Similarly, in software, you need to build well (software engineering) and solve problems smartly (problem solving).
+
+Technical:
+Good software engineering ensures a structured way of building software, while problem-solving skills are crucial to handle errors, bugs, or unexpected situations during development.

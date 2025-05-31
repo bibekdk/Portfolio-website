@@ -1,0 +1,74 @@
+What is Computer Networking?
+Technical explanation:
+Computer Networking is the practice of connecting multiple computers and devices together so they can communicate, share data, and resources like files, printers, and internet connections.
+
+In layman’s words:
+It’s like connecting a group of friends through mobile phones so they can call, text, and share pictures with each other. Same thing with computers — a network helps them “talk” to one another.
+
+📌 Why is Computer Networking Important?
+Technical:
+Without networks, computers would work alone. Networking allows file sharing, communication, access to the internet, remote operations, and collaborative work.
+
+Layman:
+Imagine if your phone couldn’t call or message anyone — pretty useless, right? Same with computers. Without networking, a computer is just a lonely box.
+
+📌 Types of Networks
+1️⃣ LAN (Local Area Network):
+Technical: A network in a small area like an office, home, or school.
+
+Layman: Like a group of friends chatting in the same room.
+
+2️⃣ WAN (Wide Area Network):
+Technical: A network that connects devices over a large area, like cities or countries. The internet is the biggest WAN.
+
+Layman: Like talking to your cousin who lives in another country through your phone or Facebook.
+
+3️⃣ MAN (Metropolitan Area Network):
+Technical: A network covering a city or town.
+
+Layman: Like a group chat that connects everyone in the same city.
+
+📌 Devices Used in Networking
+Technical:
+
+Router: Connects different networks and directs data
+
+Switch: Connects multiple devices within a network
+
+Modem: Connects your network to the internet
+
+Access Point: Connects wireless devices to a wired network
+
+Layman:
+Imagine a school:
+
+Router is the principal who directs students (data) to different classes (networks)
+
+Switch is the classroom connecting students (computers) together
+
+Modem is the gatekeeper connecting the school to the outside world (internet)
+
+Access Point is like the Wi-Fi tower inside the school giving everyone internet
+
+📌 How Do Computers Communicate?
+Technical:
+They send data through network cables or wireless signals using rules called protocols. The most popular protocol is TCP/IP which breaks data into packets, sends it, and reassembles it at the destination.
+
+Layman:
+Like sending a letter. You write it, put it in an envelope, give it to the postman (network), and your friend receives it, opens it, and reads it.
+
+📌 Example in Real Life
+When you use Wi-Fi at a café:
+
+Your phone connects to a router
+
+The router is connected to the internet
+
+You send a message on Facebook
+
+That message travels through various networks and devices
+
+Your friend receives it on their phone in a second
+
+All this happens because of computer networking.
+
