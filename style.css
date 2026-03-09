@@ -21,11 +21,48 @@
   --text-color: #fff;
   --main-color: #0ef; */
 }
-:root {
+/* :root {
   --bg-color: linear-gradient(to bottom, #000000, #434343);
   --second-bg-color: linear-gradient(to left, #000000, #434343);
   --text-color: #ffffff;
   --main-color: #9d4edd;
+} */
+
+:root {
+  /* Backgrounds */
+  --bg-color: linear-gradient(
+    to bottom,
+    #0a0a0a,
+    #2c2c2c
+  ); /* main dark gradient */
+  --second-bg-color: linear-gradient(
+    to left,
+    #1a1a1a,
+    #3c3c3c
+  ); /* secondary gradient */
+
+  /* Text Colors */
+  --text-color: #e5e5e5; /* main text */
+  --secondary-text: #b0b0b0; /* descriptions, small text */
+  --highlight-text: #ffffff; /* for headings, emphasis */
+
+  /* Primary Accent (your signature purple) */
+  --main-color: #9d4edd; /* primary buttons, links, highlights */
+
+  /* Additional Accent Colors */
+  --accent-blue: #4ee1ff; /* buttons, links, hover effects */
+  --accent-pink: #ff4ecb; /* highlights, CTA elements */
+  --accent-teal: #4effa1; /* secondary accents, icons */
+
+  /* Buttons / Call-to-Action */
+  --btn-bg: var(--main-color);
+  --btn-hover-bg: var(--accent-blue);
+  --btn-text: #ffffff;
+  --btn-hover-text: #ffffff;
+
+  /* Shadows / Glow */
+  --shadow-color: rgba(157, 78, 221, 0.4); /* soft purple glow */
+  --glow-color: #4ee1ff; /* neon glow for hover/animations */
 }
 html {
   font-size: 62.5%;
@@ -708,6 +745,23 @@ span {
 .footer-iconTop a i {
   font-size: 2.4rem;
   color: var(--second-bg-color);
+}
+
+.download-btn {
+  margin-left: 10px;
+  /* margin-top: 10px; */
+  display: inline-block;
+  background-color: #0077b6; /* Change color if needed */
+  color: white;
+  padding: 0.7rem 1.5rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+.download-btn:hover {
+  background-color: #023e8a;
 }
 
 @media (max-width: 1200px) {
